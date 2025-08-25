@@ -1,6 +1,8 @@
 streamlit
 scikit-learn
+xgboost
 numpy
 pandas
 joblib
-xgboost
+category_encoders
+imbalanced-learn

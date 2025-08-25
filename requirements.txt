@@ -1,8 +1,8 @@
-streamlit
-scikit-learn
+scikit-learn==1.6.1
 xgboost
 numpy
 pandas
 joblib
-category_encoders
+category-encoders
 imbalanced-learn
+streamlit
